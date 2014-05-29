@@ -2,7 +2,7 @@
 //  Learning-C-Practice
 //
 //  Using the library function printf() to showcase data types and conversion characters
-//
+//  Chapter 2 - Absolute Beginners Guide to C
 //
 
 #include <stdio.h>
