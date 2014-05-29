@@ -1,7 +1,7 @@
 //  BasicProgram.c
 //  Learning-C-Practice
 //
-//  Using the printf() library function
+//  Using the printf() library function and escape sequences
 //  Chapter 4 - Absolute Beginners Guide to C
 //
 
@@ -9,6 +9,7 @@
     // It can send characters, numbers and words to the screen
     // General Format : printf( "controlString" [ , data ] );
     // It requires a controlString but the data following the controlString is optional
+
 
 
 #include <stdio.h>
@@ -40,3 +41,10 @@ int main (void)
     return 0;
     
 }
+
+
+/***************************** VOCAB *******************************/
+
+// controlString : describes the format of the data that follow, use to specify exactly how you want your data printed
+
+// conversion character : used as a placeholder for different types of data
