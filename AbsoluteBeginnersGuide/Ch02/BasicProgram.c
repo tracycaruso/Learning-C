@@ -26,5 +26,5 @@ int main (void)
     printf("A class average of %.1f\n", 85.9);
     
     
-    return 0;
+    return 0; 
 }
