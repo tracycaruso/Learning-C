@@ -41,6 +41,7 @@ int main (void)
     // Print total cost with discount
     printf("With your coupon that comes to %.2f \n" , dsct);
     
+    return 0;
     
 }
 
