@@ -49,7 +49,7 @@ I'm learning C! This repository is filled with various books and courses I am le
     - [Saving to Disk](https://github.com/ycartc/Learning-C/blob/master/AbsoluteBeginnersGuide/Ch28/SavingToDisk.c)
     - [Reading Files](https://github.com/ycartc/Learning-C/blob/master/AbsoluteBeginnersGuide/Ch28/ReadingFile.c)
     - [Appending Files](https://github.com/ycartc/Learning-C/blob/master/AbsoluteBeginnersGuide/Ch28/AppendingFile.c)
-29. Saving on Disk Random Access Files
+29. Saving on Disk Random Files
     - [Random Files](https://github.com/ycartc/Learning-C/blob/master/AbsoluteBeginnersGuide/Ch29/RandomFiles.c)
     - [Editing Files](https://github.com/ycartc/Learning-C/blob/master/AbsoluteBeginnersGuide/Ch29/EditFile.c)
     - [Saving Grades](https://github.com/ycartc/Learning-C/blob/master/AbsoluteBeginnersGuide/Ch29/SavingGrades.c)
